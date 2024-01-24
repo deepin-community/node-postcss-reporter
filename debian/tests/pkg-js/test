@@ -1,0 +1,1 @@
+NODE_PATH=debian/tests/test-modules tape test

@@ -1,0 +1,27 @@
+{
+    "name": "@types/postcss-reporter",
+    "version": "7.0.1",
+    "description": "TypeScript definitions for postcss-reporter",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/postcss-reporter",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Piotr Błażejewicz",
+            "url": "https://github.com/peterblazejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/postcss-reporter"
+    },
+    "scripts": {},
+    "dependencies": {
+        "postcss": "^8.2.10"
+    },
+    "typesPublisherContentHash": "c0e86a0097e41aab1089d95683c1899199ee1c19a0969c7c692acee2ace2d4fc",
+    "typeScriptVersion": "3.7"
+}
